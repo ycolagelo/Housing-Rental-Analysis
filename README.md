@@ -1,5 +1,5 @@
 ### Housing Rental Analysis For San Francisco
-![image]("C:\Users\Yvonne Colangelo\Housing-Rental-Analysis\san_francisco_housing.ipynb")
+![image]('6-4-challenge-image.png')
 
 # A visualization and analysis of real estate data based in San Francisco. 
 * Data is read from two CSV files and used to create DataFrames
